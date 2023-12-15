@@ -4,6 +4,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gustavomlara)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavolara63719@gmail.com?subject=.&body=.)
 
+
 ![gustavo-lara GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-lara&show_icons=true&theme=dracula)
 
 ### Tecnologias que eu uso:
