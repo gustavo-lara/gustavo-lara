@@ -23,7 +23,6 @@
 <img align='center' alt='visualstudiocode' src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'/>
 <img align='center' alt='visualstudio' src='https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white'/>
 <img align='center' alt='figma' src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'/>
-<img align='center' alt='microsoftedge' src='https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white'/>
 </div>
 
 
