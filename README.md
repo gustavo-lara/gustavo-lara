@@ -18,6 +18,10 @@
 <img align='center' alt='c#' src='https://img.shields.io/badge/C%20sharp-43853D?style=for-the-badge&logo=csharp&logoColor=white'/>
 </div>
 
+### Linguagens mais usadas:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-lara&layout=compact&langs_count=6&theme=dracula)
+
 ### Plataformas que eu uso:
 <div style='display: inline_block'><br/>
 <img align='center' alt='visualstudiocode' src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'/>
