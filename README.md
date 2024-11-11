@@ -1,8 +1,8 @@
 ## Olá, eu sou o Gustavo Lara 🤚
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gustavolara_/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavolara63719@gmail.com?subject=.&body=.)
-
+Instagram ➡️(https://www.instagram.com/_gustavolara_/)
+Email ➡️(mailto:gustavolara63719@gmail.com?subject=.&body=.)
+Linkedln ➡️(https://www.linkedin.com/in/gustavo-lara-2950a32b3/)
 
 
 ![gustavo-lara GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-lara&show_icons=true&theme=dracula)
