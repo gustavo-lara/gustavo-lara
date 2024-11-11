@@ -1,7 +1,6 @@
 ## Olá, eu sou o Gustavo Lara 🤚
 
 Instagram ➡️(https://www.instagram.com/_gustavolara_/) <br/>
-Email ➡️(mailto:gustavolara63719@gmail.com?subject=.&body=.)<br/>
 Linkedln ➡️(https://www.linkedin.com/in/gustavo-lara-2950a32b3/) <br/>
 
 
