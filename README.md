@@ -40,7 +40,7 @@ Aqui está a lista de alguns dos meus certificados mais recentes:
 - **Instagram:** [_gustavolara_](https://www.instagram.com/_gustavolara_/)
 - **LinkedIn:** [Gustavo Lara](https://www.linkedin.com/in/gustavo-lara-2950a32b3/)
 - **Meu Website:** [Gustavo Lara](https://gustavo-lara.vercel.app/)
-- 
+  
 ---
 
 Seja bem-vindo ao meu perfil! Fique à vontade para explorar meus repositórios e entrar em contato. Vamos colaborar e construir soluções incríveis juntos! �
