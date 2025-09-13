@@ -1,46 +1,51 @@
-# 👋 Olá, eu sou o Gustavo Lara 
+# 👋 Olá, eu sou o Gustavo Lara  
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_gustavolara_/)](https://www.instagram.com/_gustavolara_/)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-lara-2950a32b3/)](https://www.linkedin.com/in/gustavo-lara-2950a32b3/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white&link=https://gustavo-lara.vercel.app/)](https://gustavo-lara.vercel.app/)
 
----
 
-## Sobre mim
-Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios e aprendizado. Minha área de atuação abrange o desenvolvimento de aplicações web e sistemas robustos utilizando tecnologias modernas e eficientes.
+## 👨‍💻 Sobre mim  
+Sou **Desenvolvedor Full Stack** com experiência em aplicações web completas. Atuo no **back-end** com **C# (.NET, .NET Core)** e no **front-end** com **React.js** e **JavaScript**.  
 
----
+- Desenvolvi **APIs próprias** e realizei a integração delas no front-end, garantindo comunicação eficiente entre camadas.  
+- Experiência com **arquitetura de soluções escaláveis**, integração de sistemas e foco na **experiência do usuário**.  
+- Vivência em **metodologias ágeis**, utilizando ferramentas como **Trello** e **Notion**.  
 
-## 🚀 Tecnologias e ferramentas que utilizo:
+## 🚀 Tecnologias e Ferramentas  
 
-- **Linguagens:** JavaScript, C#
-- **Frameworks:** .NET, React
-- **Banco de dados:** SQL Server
+**Hard Skills**  
+- C# (.NET, .NET Core), JavaScript, React.js, HTML5, CSS3  
+- Desenvolvimento e integração de APIs  
+- SQL Server  
+- Git & GitHub  
+- Scrum / Kanban (Trello, Notion)  
 
----
+**Soft Skills**  
+- Trabalho em equipe  
+- Aprendizado contínuo  
+- Atenção aos detalhes  
+- Foco na experiência do usuário  
+- Responsabilidade  
 
-## 🌟 Estatísticas do GitHub
+## 📚 Formação Acadêmica  
+- 🎓 **Gestão da Tecnologia da Informação (GTI)** – Fatec *(Fev 2025 – Presente)*  
+- 🎓 **Técnico em Análise e Desenvolvimento de Sistemas** – SESI / SENAI *(2022 – 2024)*  
+- 🌍 **Inglês (em andamento)** – Open English *(Set 2025 – Presente)*  
 
-![gustavo-lara GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-lara&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-lara&layout=compact&langs_count=6&theme=dracula)
+## 📜 Certificados  
+- Microsoft AI-900 – Fundamentos de Inteligência Artificial  
+- Microsoft AZ-900 – Fundamentos de Cloud (Azure)  
+- Modelagem de Dados – Fundação Bradesco  
 
----
+## 🌟 Estatísticas do GitHub  
+![gustavo-lara GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-lara&show_icons=true&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-lara&layout=compact&langs_count=6&theme=dracula)  
 
-## 📜 Certificados
-Aqui está a lista de alguns dos meus certificados mais recentes:
+## 🌐 Onde me encontrar  
+📷 Instagram: [_gustavolara_](https://www.instagram.com/_gustavolara_/)  
+💼 LinkedIn: [Gustavo Lara](https://www.linkedin.com/in/gustavo-lara-2950a32b3/)  
+🌐 Website/Portfólio: [gustavo-lara.vercel.app](https://gustavo-lara.vercel.app/)  
+📧 E-mail: **gustavolara63719@gmail.com**  
 
-- **[Microsoft AI-900] - Emitido por Microsoft
-- **[Microsoft AZ-900] - Emitido por Microsoft
-- **[Modelagem de Dados] - Emitido por Fundação Bradesco
-
-> _"A vida é um constante aprendizado, e cada certificado representa uma nova conquista nessa jornada!"_
-
----
-
-## 🌐 Redes sociais
-- **Instagram:** [_gustavolara_](https://www.instagram.com/_gustavolara_/)
-- **LinkedIn:** [Gustavo Lara](https://www.linkedin.com/in/gustavo-lara-2950a32b3/)
-- **Meu Website:** [Gustavo Lara](https://gustavo-lara.vercel.app/)
-  
----
-
-Seja bem-vindo ao meu perfil! Fique à vontade para explorar meus repositórios e entrar em contato. Vamos colaborar e construir soluções incríveis juntos! �
+✨ Seja bem-vindo ao meu perfil! Fique à vontade para explorar meus repositórios e projetos. Vamos colaborar e construir soluções incríveis juntos! 🚀
