@@ -20,7 +20,7 @@
 const gustavo = {
   nome: "Gustavo Lara",
   cargo: "Desenvolvedor Full Stack",
-  localização: "Campinas, São Paulo 🇧🇷",
+  localização: "Jaú, São Paulo 🇧🇷",
   idade: 19,
   foco: ["Back-End", "Front-End", "Cloud Computing"],
   atualmenteFazendo: "Cursando GTI na Fatec",
