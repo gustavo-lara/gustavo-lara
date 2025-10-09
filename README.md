@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Gustavo Lara  
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_gustavolara_/)](https://www.instagram.com/_gustavolara_/)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-lara-2950a32b3/)](https://www.linkedin.com/in/gustavo-lara-2950a32b3/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-lara-2950a32b3/)](www.linkedin.com/in/gustavo-lara-26102006www)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white&link=https://gustavo-lara.vercel.app/)](https://gustavo-lara.vercel.app/)
 
 
