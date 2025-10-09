@@ -7,7 +7,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_gustavolara_/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-lara-26102006www)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gustavo-lara.vercel.app/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavolara63719@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=gustavo-lara&color=blueviolet&style=for-the-badge&label=VISITAS+NO+PERFIL" alt="Profile views" />
 
@@ -54,14 +53,12 @@ const gustavo = {
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Styled Components](https://img.shields.io/badge/-Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 ### ⚙️ Back-End
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🗄️ Banco de Dados
 
@@ -72,7 +69,6 @@ const gustavo = {
 
 ### ☁️ Cloud & DevOps
 
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -84,15 +80,12 @@ const gustavo = {
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAxMkwxMiAyMkwyMiAxMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 📋 Metodologias & Gestão
 
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 ---
 
@@ -104,7 +97,7 @@ const gustavo = {
 - ✅ **Arquitetura MVC** em PHP com PDO para manipulação segura de dados
 - ✅ **APIs RESTful** escaláveis e bem documentadas
 - ✅ **Integração de sistemas** e microserviços
-- ✅ **Deploy de aplicações** em cloud (Azure, Vercel)
+- ✅ **Deploy de aplicações** em cloud (Vercel)
 - ✅ **Trabalho com metodologias ágeis** (Scrum, Kanban)
 
 ---
@@ -112,13 +105,13 @@ const gustavo = {
 ## 🎓 Formação Acadêmica
 
 ### 📚 Graduação
-🎓 **Gestão da Tecnologia da Informação (GTI)**  
-📍 Fatec  
+🎓 **Gestão da Tecnologia da Informação**  
+📍 FATEC  
 📅 Fev 2025 – Presente
 
 ### 🔧 Técnico
 🎓 **Análise e Desenvolvimento de Sistemas**  
-📍 SESI / SENAI  
+📍 SENAI  
 📅 2022 – 2024
 
 ### 🌍 Idiomas
@@ -155,8 +148,6 @@ const gustavo = {
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-lara&layout=compact&langs_count=8&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=gustavo-lara&theme=tokyonight&hide_border=false)
-
 </div>
 
 ---
@@ -166,16 +157,7 @@ const gustavo = {
 📷 **Instagram**: [@_gustavolara_](https://www.instagram.com/_gustavolara_/)  
 💼 **LinkedIn**: [Gustavo Lara](https://www.linkedin.com/in/gustavo-lara-2950a32b3/)  
 🌐 **Portfolio**: [gustavo-lara.vercel.app](https://gustavo-lara.vercel.app/)  
-📧 **Email**: gustavolara63719@gmail.com  
 💻 **GitHub**: [@gustavo-lara](https://github.com/gustavo-lara)
-
----
-
-<div align="center">
-
-### 💭 Pensamento
-
-> *"O código é poesia em movimento. Cada linha é uma chance de criar algo extraordinário."*
 
 ---
 
