@@ -8,8 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-lara-26102006www)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gustavo-lara.vercel.app/)
 
-<img src="https://komarev.com/ghpvc/?username=gustavo-lara&color=blueviolet&style=for-the-badge&label=VISITAS+NO+PERFIL" alt="Profile views" />
-
 </div>
 
 ---
