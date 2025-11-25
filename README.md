@@ -16,14 +16,12 @@
 
 ```typescript
 const gustavo = {
-  nome: "Gustavo Lara",
+  nome: "Gustavo Menegassi Lara",
   cargo: "Desenvolvedor Full Stack",
   localização: "Jaú, São Paulo 🇧🇷",
   idade: 19,
-  foco: ["Back-End", "Front-End", "Cloud Computing"],
   atualmenteFazendo: "Cursando GTI na Fatec",
   objetivo: "Construir soluções escaláveis e impactantes",
-  hobbies: ["Programação", "Aprender novas tecnologias", "Games"]
 };
 ```
 
