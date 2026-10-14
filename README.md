@@ -44,11 +44,9 @@ Atualmente atuo como **Desenvolvedor Full Stack Jr. na Integrale Gestão Empresa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="42" height="42" alt="C#"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="42" height="42" alt="Dart"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3"/>
 </p>
 
-`JavaScript` · `TypeScript` · `PHP` · `Python` · `C#` · `Dart` · `SQL` · `HTML` · `CSS`
+`JavaScript` · `TypeScript` · `PHP` · `Python` · `C#` · `Dart` · `SQL`
 
 ---
 
