@@ -20,9 +20,9 @@
 
 Sou **Desenvolvedor Full Stack** focado em **Engenharia de Software, Arquitetura e Automação de Processos**.
 
-Minha atuação vai além de escrever código: busco resolver **problemas reais de negócio** através da tecnologia. Tenho experiência com APIs, aplicações web, sistemas legados, integrações em nuvem, automação de processos e infraestrutura.
+Minha atuação vai além de escrever código: busco resolver **problemas reais de negócio** através da tecnologia. Tenho experiência com APIs, aplicações web, sistemas legados, integrações em nuvem, automação de processos e infraestrutura. Atuo da interface à API, ao banco de dados, ao sistema já em produção, à automação e ao ambiente em que o software é publicado.
 
-Atualmente atuo como **Desenvolvedor Full Stack Jr. na Integrale Gestão Empresarial**, em diferentes frentes do desenvolvimento de software.
+Atualmente atuo em diferentes frentes do desenvolvimento de software.
 
 > *Construindo soluções escaláveis e fazendo a tecnologia trabalhar a favor da operação.*
 
