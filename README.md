@@ -18,33 +18,13 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=38&duration=1500&pause=1500&color=F0F6FC&vCenter=true&width=420&height=55&repeat=false&lines=Sobre+mim"><img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=38&duration=1500&pause=1500&color=111827&vCenter=true&width=420&height=55&repeat=false&lines=Sobre+mim" alt="Sobre mim"/></picture>
 
-Sou **desenvolvedor full stack** com **1 ano e 2 meses** de experiência. Sei levar um processo do dado até a tela e até o servidor em que ele roda: interface, API, SQL, rotina de banco, automação e a máquina.
+Sou **Desenvolvedor Full Stack** focado em **Engenharia de Software, Arquitetura e Automação de Processos**.
 
-Sei construir aplicação web, desenhar API, consultar e carregar banco relacional (incluindo legado), gravar arquivo em nuvem, automatizar consulta e aviso, e publicar serviço em Linux. Sei entrar num sistema que já está em produção e também começar um serviço novo, com separação de responsabilidades e teste.
+Minha atuação vai além de escrever código: busco resolver **problemas reais de negócio** através da tecnologia. Tenho experiência com APIs, aplicações web, sistemas legados, integrações em nuvem, automação de processos e infraestrutura.
 
-**Desenvolvedor Full Stack Jr.** na Integrale Gestão Empresarial · `09/2025 — Atualmente`
+Atualmente atuo como **Desenvolvedor Full Stack Jr. na Integrale Gestão Empresarial**, em diferentes frentes do desenvolvimento de software.
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=21262D&height=50&section=footer"><img src="https://capsule-render.vercel.app/api?type=waving&color=E5E7EB&height=50&section=footer" alt="" width="100%"/></picture>
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=38&duration=1500&pause=1500&color=F0F6FC&vCenter=true&width=560&height=55&repeat=false&lines=O+que+eu+sei+fazer"><img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=38&duration=1500&pause=1500&color=111827&vCenter=true&width=560&height=55&repeat=false&lines=O+que+eu+sei+fazer" alt="O que eu sei fazer"/></picture>
-
-**Interface**
-Sei montar aplicação web em **React** e **Vue**, com formulário validado, filtro, tabela e exportação. Sei construir tema e plugin em **WordPress** e manter app mobile em **Flutter**.
-
-**API e arquitetura**
-Sei criar API em **NestJS** e **FastAPI**, com autenticação, validação e contrato claro. Sei organizar um serviço em domínio, portas e adaptadores, e expor resposta em tempo real.
-
-**Dados**
-Sei consultar e modelar **PostgreSQL** e **MySQL**, e trabalhar em **SQL Anywhere**. Sei montar carga entre bancos: extração, staging e conversão de tipo, inclusive quando o volume não cabe na memória da aplicação. Sei gravar, apagar e servir arquivo no **Azure Blob Storage**.
-
-**Automação**
-Sei fechar um fluxo no **UiPath**, da consulta ao resultado que a área usa. Sei montar no **n8n** notificação e envio de e-mail.
-
-**Infraestrutura**
-Sei publicar aplicação com **Docker**, **Nginx** e **PM2** em Linux, e ligar uma VPS a um servidor interno com **WireGuard** sem deixar o banco exposto na internet.
-
-**Legado**
-Sei ler, corrigir e estender sistema **PHP** que já está em produção, inclusive regra de negócio e integração com API externa.
+> *Construindo soluções escaláveis e fazendo a tecnologia trabalhar a favor da operação.*
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=21262D&height=50&section=footer"><img src="https://capsule-render.vercel.app/api?type=waving&color=E5E7EB&height=50&section=footer" alt="" width="100%"/></picture>
 
@@ -65,7 +45,6 @@ Sei ler, corrigir e estender sistema **PHP** que já está em produção, inclus
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Vue.js-21262D?style=flat&logo=vuedotjs&logoColor=4FC08D&labelColor=21262D"><img src="https://img.shields.io/badge/Vue.js-F3F4F6?style=flat&logo=vuedotjs&logoColor=4FC08D&labelColor=F3F4F6" alt="Vue.js"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Node.js-21262D?style=flat&logo=nodedotjs&logoColor=7CC862&labelColor=21262D"><img src="https://img.shields.io/badge/Node.js-F3F4F6?style=flat&logo=nodedotjs&logoColor=5FA04E&labelColor=F3F4F6" alt="Node.js"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/NestJS-21262D?style=flat&logo=nestjs&logoColor=F2557A&labelColor=21262D"><img src="https://img.shields.io/badge/NestJS-F3F4F6?style=flat&logo=nestjs&logoColor=E0234E&labelColor=F3F4F6" alt="NestJS"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/FastAPI-21262D?style=flat&logo=fastapi&logoColor=009688&labelColor=21262D"><img src="https://img.shields.io/badge/FastAPI-F3F4F6?style=flat&logo=fastapi&logoColor=009688&labelColor=F3F4F6" alt="FastAPI"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Express-21262D?style=flat&logo=express&logoColor=FFFFFF&labelColor=21262D"><img src="https://img.shields.io/badge/Express-F3F4F6?style=flat&logo=express&logoColor=000000&labelColor=F3F4F6" alt="Express"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/.NET-21262D?style=flat&logo=dotnet&logoColor=9B7CF0&labelColor=21262D"><img src="https://img.shields.io/badge/.NET-F3F4F6?style=flat&logo=dotnet&logoColor=512BD4&labelColor=F3F4F6" alt=".NET"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Flutter-21262D?style=flat&logo=flutter&logoColor=4FB8FF&labelColor=21262D"><img src="https://img.shields.io/badge/Flutter-F3F4F6?style=flat&logo=flutter&logoColor=02569B&labelColor=F3F4F6" alt="Flutter"/></picture>
@@ -73,20 +52,36 @@ Sei ler, corrigir e estender sistema **PHP** que já está em produção, inclus
 **Bancos de Dados**<br/>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/PostgreSQL-21262D?style=flat&logo=postgresql&logoColor=6C94F5&labelColor=21262D"><img src="https://img.shields.io/badge/PostgreSQL-F3F4F6?style=flat&logo=postgresql&logoColor=4169E1&labelColor=F3F4F6" alt="PostgreSQL"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/MySQL-21262D?style=flat&logo=mysql&logoColor=6FA8D6&labelColor=21262D"><img src="https://img.shields.io/badge/MySQL-F3F4F6?style=flat&logo=mysql&logoColor=4479A1&labelColor=F3F4F6" alt="MySQL"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/SQL%20Anywhere-21262D?style=flat&labelColor=21262D"><img src="https://img.shields.io/badge/SQL%20Anywhere-F3F4F6?style=flat&labelColor=F3F4F6" alt="SQL Anywhere"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Supabase-21262D?style=flat&logo=supabase&logoColor=3FCF8E&labelColor=21262D"><img src="https://img.shields.io/badge/Supabase-F3F4F6?style=flat&logo=supabase&logoColor=3FCF8E&labelColor=F3F4F6" alt="Supabase"/></picture>
 
 **Ferramentas & Cloud**<br/>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Git-21262D?style=flat&logo=git&logoColor=F05032&labelColor=21262D"><img src="https://img.shields.io/badge/Git-F3F4F6?style=flat&logo=git&logoColor=F05032&labelColor=F3F4F6" alt="Git"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-21262D?style=flat&logo=github&logoColor=FFFFFF&labelColor=21262D"><img src="https://img.shields.io/badge/GitHub-F3F4F6?style=flat&logo=github&logoColor=181717&labelColor=F3F4F6" alt="GitHub"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Docker-21262D?style=flat&logo=docker&logoColor=2496ED&labelColor=21262D"><img src="https://img.shields.io/badge/Docker-F3F4F6?style=flat&logo=docker&logoColor=2496ED&labelColor=F3F4F6" alt="Docker"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Linux-21262D?style=flat&logo=linux&logoColor=FCC624&labelColor=21262D"><img src="https://img.shields.io/badge/Linux-F3F4F6?style=flat&logo=linux&logoColor=FCC624&labelColor=F3F4F6" alt="Linux"/></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Nginx-21262D?style=flat&logo=nginx&logoColor=009639&labelColor=21262D"><img src="https://img.shields.io/badge/Nginx-F3F4F6?style=flat&logo=nginx&logoColor=009639&labelColor=F3F4F6" alt="Nginx"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Azure-21262D?style=flat&logo=microsoftazure&logoColor=3AA0F0&labelColor=21262D"><img src="https://img.shields.io/badge/Azure-F3F4F6?style=flat&logo=microsoftazure&logoColor=0078D4&labelColor=F3F4F6" alt="Azure"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/n8n-21262D?style=flat&logo=n8n&logoColor=EA4B71&labelColor=21262D"><img src="https://img.shields.io/badge/n8n-F3F4F6?style=flat&logo=n8n&logoColor=EA4B71&labelColor=F3F4F6" alt="n8n"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/UiPath-21262D?style=flat&logo=uipath&logoColor=FA4616&labelColor=21262D"><img src="https://img.shields.io/badge/UiPath-F3F4F6?style=flat&logo=uipath&logoColor=FA4616&labelColor=F3F4F6" alt="UiPath"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/WordPress-21262D?style=flat&logo=wordpress&logoColor=4DA6D6&labelColor=21262D"><img src="https://img.shields.io/badge/WordPress-F3F4F6?style=flat&logo=wordpress&logoColor=21759B&labelColor=F3F4F6" alt="WordPress"/></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Figma-21262D?style=flat&logo=figma&logoColor=F24E1E&labelColor=21262D"><img src="https://img.shields.io/badge/Figma-F3F4F6?style=flat&logo=figma&logoColor=F24E1E&labelColor=F3F4F6" alt="Figma"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/XAMPP-21262D?style=flat&logo=xampp&logoColor=FB7A24&labelColor=21262D"><img src="https://img.shields.io/badge/XAMPP-F3F4F6?style=flat&logo=xampp&logoColor=FB7A24&labelColor=F3F4F6" alt="XAMPP"/></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=21262D&height=50&section=footer"><img src="https://capsule-render.vercel.app/api?type=waving&color=E5E7EB&height=50&section=footer" alt="" width="100%"/></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=38&duration=1500&pause=1500&color=F0F6FC&vCenter=true&width=420&height=55&repeat=false&lines=Experi%C3%AAncia"><img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=38&duration=1500&pause=1500&color=111827&vCenter=true&width=420&height=55&repeat=false&lines=Experi%C3%AAncia" alt="Experiência"/></picture>
+
+#### Integrale Gestão Empresarial
+**Desenvolvedor Full Stack Jr.** &nbsp;·&nbsp; `09/2025 — Atualmente`
+
+Atuação com foco em engenharia de software, desenvolvimento de APIs, interfaces, manutenção de sistemas e automação.
+
+- Desenvolvimento de APIs com **NestJS / Node.js**
+- Desenvolvimento de interfaces com **React**
+- Manutenção, refatoração e correção de sistemas legados em **PHP**
+- Manutenções em aplicações mobile com **Flutter**
+- Integrações com **Azure Blob Storage**
+- Automações sistêmicas com **n8n** e **UiPath**
+- Evolução de plugins e soluções em **WordPress**
+- Orquestração de ambientes com **Docker**
+- Desenvolvimento e manutenção de soluções com **PostgreSQL**
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=21262D&height=50&section=footer"><img src="https://capsule-render.vercel.app/api?type=waving&color=E5E7EB&height=50&section=footer" alt="" width="100%"/></picture>
 
@@ -125,7 +120,9 @@ Reconhecimento pelo desempenho acadêmico e envolvimento em projetos relevantes 
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=38&duration=1500&pause=1500&color=F0F6FC&vCenter=true&width=420&height=55&repeat=false&lines=Atualmente"><img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=38&duration=1500&pause=1500&color=111827&vCenter=true&width=420&height=55&repeat=false&lines=Atualmente" alt="Atualmente"/></picture>
 
-Aprofundando **engenharia de software**: arquitetura de serviços, API, banco e automação.
+Aprofundando conhecimentos em **Engenharia de Software** e desenvolvimento de sistemas, com foco em:
+
+`Software Architecture` · `Backend` · `APIs` · `Cloud` · `Automation` · `Databases`
 
 <br/>
 
@@ -133,4 +130,4 @@ Aprofundando **engenharia de software**: arquitetura de serviços, API, banco e 
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=21262D&height=110&section=footer"><img src="https://capsule-render.vercel.app/api?type=waving&color=E5E7EB&height=110&section=footer" alt="" width="100%"/></picture>
 
-</div>
+</div> 
