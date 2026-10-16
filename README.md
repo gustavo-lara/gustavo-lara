@@ -71,17 +71,18 @@ Minha abordagem é de ponta a ponta. Garanto que o software funcione de forma ef
 #### Integrale Gestão Empresarial
 **Desenvolvedor Full Stack Jr.** &nbsp;·&nbsp; `09/2025 — Atualmente`
 
-Atuação com foco em engenharia de software, desenvolvimento de APIs, interfaces, manutenção de sistemas e automação.
+Atuação em engenharia de software, da interface à API, ao banco, à automação e à infraestrutura.
 
-- Desenvolvimento de APIs com **NestJS / Node.js**
-- Desenvolvimento de interfaces com **React**
-- Manutenção, refatoração e correção de sistemas legados em **PHP**
-- Manutenções em aplicações mobile com **Flutter**
-- Integrações com **Azure Blob Storage**
-- Automações sistêmicas com **n8n** e **UiPath**
-- Evolução de plugins e soluções em **WordPress**
-- Orquestração de ambientes com **Docker**
-- Desenvolvimento e manutenção de soluções com **PostgreSQL**
+APIs em NestJS, Node.js e FastAPI, com autenticação, validação de contrato e comunicação em tempo real
+Interfaces em React, TypeScript e Vue, com formulário, consulta, filtro, tabela, indicador e exportação
+Temas e plugins em WordPress
+Manutenção de aplicações mobile em Flutter
+Leitura, correção e evolução de sistemas legados em PHP, com integração a outros sistemas
+PostgreSQL, MySQL e SQL Anywhere, em consulta, modelagem e movimentação de dados entre bases
+Armazenamento de arquivo no Azure Blob Storage e no Supabase
+Automação de processos com UiPath e n8n, em consulta, notificação e e-mail
+Publicação em Linux com Docker, Nginx e gerenciamento de processo, e conexão privada entre servidores
+Organização do serviço por responsabilidades, com isolamento entre clientes e teste automatizado
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=21262D&height=50&section=footer"><img src="https://capsule-render.vercel.app/api?type=waving&color=E5E7EB&height=50&section=footer" alt="" width="100%"/></picture>
 
