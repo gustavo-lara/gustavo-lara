@@ -18,11 +18,11 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=38&duration=1500&pause=1500&color=F0F6FC&vCenter=true&width=420&height=55&repeat=false&lines=Sobre+mim"><img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=38&duration=1500&pause=1500&color=111827&vCenter=true&width=420&height=55&repeat=false&lines=Sobre+mim" alt="Sobre mim"/></picture>
 
-Sou **Desenvolvedor Full Stack** focado em **Engenharia de Software, Arquitetura e Automação de Processos**.
+Sou um **Desenvolvedor Full Stack** com foco em **Engenharia de Software, Arquitetura e Automação de Processos**.
 
-Minha atuação vai além de escrever código: busco resolver **problemas reais de negócio** através da tecnologia. Tenho experiência com APIs, aplicações web, sistemas legados, integrações em nuvem, automação de processos e infraestrutura. Atuo da interface à API, ao banco de dados, ao sistema já em produção, à automação e ao ambiente em que o software é publicado.
+Mais do que escrever código, meu objetivo é utilizar a tecnologia para resolver **problemas reais de negócio**. Tenho experiência no ciclo de vida completo do desenvolvimento: atuo desde a construção de interfaces e modelagem de bancos de dados até o design de APIs, integração em nuvem e modernização de sistemas legados. 
 
-Atualmente atuo em diferentes frentes do desenvolvimento de software.
+Minha abordagem é de ponta a ponta. Garanto que o software funcione de forma eficiente em todo o seu ecossistema, o que inclui a configuração do ambiente de publicação, a orquestração da infraestrutura em produção e a automação de fluxos operacionais.
 
 > *Construindo soluções escaláveis e fazendo a tecnologia trabalhar a favor da operação.*
 
